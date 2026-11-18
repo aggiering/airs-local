@@ -1,0 +1,4 @@
+.env
+.venv/
+.airs-tokens/
+__pycache__/
